@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HammerSystemsApp</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_basket">Корзина</string>
+    <string-array name="location">
+        <item>Москва</item>
+        <item>…</item>
+    </string-array>
+    <string name="category_pizza">Пицца</string>
+    <string name="category_combo">Комбо</string>
+    <string name="category_dessert">Десерты</string>
+    <string name="category_drink">Напитки</string>
+    <string name="cost">от 345 р</string>
+</resources>
